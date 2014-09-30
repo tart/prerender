@@ -13,7 +13,8 @@
     "lodash": "~2.4.0",
     "phantom": "~0.5.7",
     "phantomjs": "~1.9.7-1",
-    "prerender-redis-cache": "^0.1.2"
+    "prerender-redis-cache": "^0.1.2",
+    "tree-kill": "0.0.6"
   },
   "bin": {
     "prerender": "server.js"
